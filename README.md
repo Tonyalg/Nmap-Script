@@ -7,21 +7,21 @@
 <h2>Clone the Repository:</h2>
 <p>Clone the repository from GitHub using the following command:</p>
 
-  git clone https://github.com/Tonyalg/Nmap-Script.git
+    git clone https://github.com/Tonyalg/Nmap-Script.git
 
 <h2>Prerequisites:</h2>
 
 <p>Ensure you have Python installed on your system. If not, you can download it from <a href="https://www.python.org/">python.org.</a></p>
 <p>Install the nmap module using pip:</p>
 
-  pip install python-nmap
+    pip install python-nmap
 
 <h1>Running the Script:</h1>
 
 Navigate to the directory where you cloned the repository.
 Execute the port_enumeration.py script using Python:
 
-  python port_enumeration.py
+    python escaner.py
 
 <p>Using the Script:
   -  Enter the network IP you want to scan when prompted.
