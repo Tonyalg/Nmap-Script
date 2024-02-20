@@ -7,7 +7,7 @@
 <h2>Clone the Repository:</h2>
 <p>Clone the repository from GitHub using the following command:</p>
 
-  git clone https://github.com/your_username/repository_name.git
+  git clone https://github.com/Tonyalg/Nmap-Script.git
 
 <h2>Prerequisites:</h2>
 
