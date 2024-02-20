@@ -23,11 +23,11 @@ Execute the port_enumeration.py script using Python:
 
     python escaner.py
 
-<p>Using the Script:
+<pre>Using the Script:
   -  Enter the network IP you want to scan when prompted.
   -  Select the specific IP for port enumeration.
   -  The script will display the open and filtered ports on the selected IP.
   -  If you want to get more information about open ports, respond "Y" when prompted.
   -  The script will provide detailed information about the open ports, including state, service, product, version, and more.</p>
 
-<p>With this simple guide, you can use the script to perform a quick and detailed enumeration of ports in your network, thereby facilitating administration and security tasks.</p>
+<p>With this simple guide, you can use the script to perform a quick and detailed enumeration of ports in your network, thereby facilitating administration and security tasks.</pre>
