@@ -19,7 +19,7 @@
 <h1>Running the Script:</h1>
 
 Navigate to the directory where you cloned the repository.
-Execute the port_enumeration.py script using Python:
+Execute the escaner.py script using Python:
 
     python escaner.py
 
